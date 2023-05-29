@@ -1,5 +1,5 @@
 [package]
-name = "rustwasm"
+name = "ianarustwasm"
 version = "0.1.0"
 authors = ["ianaio <dev@iana.io>"]
 edition = "2021"
