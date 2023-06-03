@@ -1,5 +1,5 @@
 [package]
-name = "ianarustwasm"
+name = "systemd-rust-ianaio"
 version = "0.1.0"
 authors = ["ianaio <dev@iana.io>"]
 edition = "2021"
@@ -31,5 +31,4 @@ wasm-bindgen-test = "0.3.34"
 [profile.release]
 # Tell `rustc` to optimize for small code size.
 opt-level = "s"
-
 
