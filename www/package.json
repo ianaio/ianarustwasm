@@ -28,11 +28,10 @@
   },
   "homepage": "https://github.com/ianaio/ianawasmrust#readme",
   "devDependencies": {
-    "hello-wasm-pack": "^0.1.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "iana-rustwasm": "^0.1.0",
     "webpack": "^5.81.0",
     "webpack-cli": "^5.0.2",
-    "webpack-dev-server": "^4.13.3",
-    "copy-webpack-plugin": "^11.0.0"
+    "webpack-dev-server": "^4.13.3"
   }
 }
-
