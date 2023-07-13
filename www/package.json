@@ -1,5 +1,5 @@
 {
-  "name": "ianarustwasm",
+  "name": "iana-rustwasm",
   "version": "0.1.2",
   "description": "IANA SYSTEMS - create an rust app to consume rust-generated wasm packages",
   "main": "index.js",
